@@ -19,6 +19,6 @@ These two datasets are significantly different from each other in terms of the i
    :alt: Images from Dataset 2.
    :align: center
 
-If you use Dataset 1 in your paper, please acknowledge `Jiangxi Tecom Science Corporation, China <http://en.tecom-cn.com/>`_.
+If you use **Dataset 1** in your paper, please acknowledge `Jiangxi Tecom Science Corporation, China <http://en.tecom-cn.com/>`_.
 
-If you use Dataset 2 in your paper, please acknowledge `the CellaVision blog <http://blog.cellavision.com/>`_ (http://blog.cellavision.com/).
+If you use **Dataset 2** in your paper, please acknowledge `the CellaVision blog <http://blog.cellavision.com/>`_ (http://blog.cellavision.com/).
