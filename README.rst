@@ -2,7 +2,7 @@
 WBC Image Dataset
 =============================
 
-This is two datasets of white blood cell (WBC) images used for “Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning”, which can be used to evaluate cell image segmentation methods. 
+This is two datasets of white blood cell (WBC) images used for “**Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning**”, which can be used to evaluate cell image segmentation methods. 
 
 These two datasets are significantly different from each other in terms of the image color, cell shape, background, etc., which can better evaluate the robustness of WBC segmentation approach. The ground truth segmentation results are manually sketched by domain experts, where the nuclei, cytoplasms and background including red blood cells are marked in white, gray and black respectively. We also submitted the segmentation results by our approach, where the whole WBC region are marked in white and the others are marked in black.
 
