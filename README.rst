@@ -2,7 +2,7 @@
 WBC Image Dataset
 =============================
 
-This is two datasets of white blood cell (WBC) images used for “**Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning**”(https://doi.org/10.1016/j.micron.2018.01.010), which can be used to evaluate cell image segmentation methods. 
+This is two datasets of white blood cell (WBC) images used for “**Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning**”, which can be used to evaluate cell image segmentation methods. 
 
 These two datasets are significantly different from each other in terms of the image color, cell shape, background, etc., which can better evaluate the robustness of WBC segmentation approach. The ground truth segmentation results are manually sketched by domain experts, where the nuclei, cytoplasms and background including red blood cells are marked in white, gray and black respectively. We also submitted the segmentation results by our approach, where the whole WBC region are marked in white and the others are marked in black.
 
@@ -22,3 +22,17 @@ These two datasets are significantly different from each other in terms of the i
 If you use **Dataset 1** in your paper, please acknowledge `Jiangxi Tecom Science Corporation, China <http://en.tecom-cn.com/>`_.
 
 If you use **Dataset 2** in your paper, please acknowledge `the CellaVision blog <http://blog.cellavision.com/>`_ (http://blog.cellavision.com/).
+
+If you use **Dataset 1** or **Dataset 1** in your paper, please cite the paper::
+
+
+@article{Zheng2018,
+title = "Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning ",
+author = "Xin Zheng and Yong Wang and Guoyou Wang and Jianguo Liu",
+journal = "Micron ",
+year = "2018",
+issn = "0968-4328",
+doi = "https://doi.org/10.1016/j.micron.2018.01.010",
+url = "https://www.sciencedirect.com/science/article/pii/S0968432817303037"
+}
+
