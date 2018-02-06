@@ -25,14 +25,12 @@ If you use **Dataset 2** in your paper, please acknowledge `the CellaVision blog
 
 If you use **Dataset 1** or **Dataset 2** in your paper, please cite the paper::
 
-
-@article{Zheng2018,
-title = {Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning},
-author = {Xin Zheng and Yong Wang and Guoyou Wang and Jianguo Liu},
-journal = {Micron},
-year = {2018},
-issn = {0968-4328},
-doi = {https://doi.org/10.1016/j.micron.2018.01.010},
-url = {https://www.sciencedirect.com/science/article/pii/S0968432817303037}
-}
+    @article{Zheng2018,
+      title = {Fast and Robust Segmentation of White Blood Cell Images by Self-supervised Learning},
+      author = {Xin Zheng and Yong Wang and Guoyou Wang and Jianguo Liu},
+      journal = {Micron},
+      year = {2018},
+      doi = {https://doi.org/10.1016/j.micron.2018.01.010},
+      url = {https://www.sciencedirect.com/science/article/pii/S0968432817303037}
+    }
 
