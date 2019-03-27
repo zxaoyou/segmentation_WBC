@@ -40,6 +40,6 @@ If you use **Dataset 1** or **Dataset 2** in your paper, please cite the paper::
     }
 
 
-Warning
+Warning on the Class Labels
 ^^^^^^^^
-Usage of this Dataset is at your own risk. The Dataset is mainly used for segmentation not classification, so some images have no class labels, whose labels are manually labeled by the authors themselves. You should not trust this if you're afreaid to lose data.
+The class labels of some of the WBC images are manually added by the authors themselves, as not every WBC image has a ground-truth label when the authors gained the original images. Since the main focus of this work is WBC segmentation, the authors did not ask domain experts to help double check the class labels. So it is at your own risk if you need to use the class labels of the provided datasets in your research.
