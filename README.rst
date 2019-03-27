@@ -19,7 +19,7 @@ These two datasets are significantly different from each other in terms of the i
    :alt: Images from Dataset 2.
    :align: center
 
-The class labels of each image in Dataset 1 and Dataset 2 are shown in the files **Class Labels of Dataset 1.csv** and **Class Labels of Dataset 2.csv**. The labels (1- 5) represent neutrophil, lymphocyte, monocyte, eosinophil and basophil, respecitvely.
+The class labels of each image in Dataset 1 and Dataset 2 are shown in the files **Class Labels of Dataset 1.csv** and **Class Labels of Dataset 2.csv**. The labels (1- 5) represent neutrophil, lymphocyte, monocyte, eosinophil and basophil, respectively.
 
 If you use **Dataset 1** in your paper, please acknowledge `Jiangxi Tecom Science Corporation, China <http://en.tecom-cn.com/>`_.
 
@@ -39,3 +39,7 @@ If you use **Dataset 1** or **Dataset 2** in your paper, please cite the paper::
       url={https://www.sciencedirect.com/science/article/pii/S0968432817303037}
     }
 
+
+Warning
+^^^^^^^^
+Usage of this Dataset is at your own risk. The Dataset is mainly used for segmentation not classification, so some images have no class labels, whose labels are manually labeled by the authors themselves. You should not trust this if you're afreaid to lose data.
