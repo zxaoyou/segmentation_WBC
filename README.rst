@@ -19,6 +19,8 @@ These two datasets are significantly different from each other in terms of the i
    :alt: Images from Dataset 2.
    :align: center
 
+The class labels of each image in Dataset 1 and Dataset 2 are shown in the files **Class Labels of Dataset 1.csv** and **Class Labels of Dataset 2.csv**. The labels (1- 5) represent neutrophil, lymphocyte, monocyte, eosinophil and basophil, respecitvely.
+
 If you use **Dataset 1** in your paper, please acknowledge `Jiangxi Tecom Science Corporation, China <http://en.tecom-cn.com/>`_.
 
 If you use **Dataset 2** in your paper, please acknowledge `the CellaVision blog <http://blog.cellavision.com/>`_ (http://blog.cellavision.com/).
